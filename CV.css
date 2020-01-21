@@ -1,0 +1,42 @@
+body
+{
+    font-family: Arial;
+    background-color: rgba(233, 229, 229, 0.705);;
+}
+h1
+{
+    text-align: center;
+}
+h2
+{
+    color: rgb(89, 154, 230);
+    text-align: center;
+}
+.Compétences,.Centre,.Profil,.Formations,.Expériences
+{
+    background-color: rgba(204, 199, 199, 0.705);
+    border-bottom: 10px rgb(65, 148, 225) solid;
+}
+footer
+{
+    background-color: rgba(204, 199, 199, 0.705);
+    border-bottom: 10px rgb(65, 148, 225) solid;
+}
+.Contact
+{
+    text-align:center;
+}
+.photo
+{ 
+    overflow: hidden;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:400px;
+    width: 380px;
+    height: 380px;
+    border: 10px rgb(65, 148, 225) solid;
+}
+pre
+{
+  font-family: Arial;
+}
